@@ -1,0 +1,15 @@
+C:\Users\Dalton\Desktop\Bootcamp SONDA - Coding Dojo\Semana 6\Dia 4\IronNinja\bin\Debug\net6.0\IronNinja.exe
+C:\Users\Dalton\Desktop\Bootcamp SONDA - Coding Dojo\Semana 6\Dia 4\IronNinja\bin\Debug\net6.0\IronNinja.deps.json
+C:\Users\Dalton\Desktop\Bootcamp SONDA - Coding Dojo\Semana 6\Dia 4\IronNinja\bin\Debug\net6.0\IronNinja.runtimeconfig.json
+C:\Users\Dalton\Desktop\Bootcamp SONDA - Coding Dojo\Semana 6\Dia 4\IronNinja\bin\Debug\net6.0\IronNinja.dll
+C:\Users\Dalton\Desktop\Bootcamp SONDA - Coding Dojo\Semana 6\Dia 4\IronNinja\bin\Debug\net6.0\IronNinja.pdb
+C:\Users\Dalton\Desktop\Bootcamp SONDA - Coding Dojo\Semana 6\Dia 4\IronNinja\obj\Debug\net6.0\IronNinja.csproj.AssemblyReference.cache
+C:\Users\Dalton\Desktop\Bootcamp SONDA - Coding Dojo\Semana 6\Dia 4\IronNinja\obj\Debug\net6.0\IronNinja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dalton\Desktop\Bootcamp SONDA - Coding Dojo\Semana 6\Dia 4\IronNinja\obj\Debug\net6.0\IronNinja.AssemblyInfoInputs.cache
+C:\Users\Dalton\Desktop\Bootcamp SONDA - Coding Dojo\Semana 6\Dia 4\IronNinja\obj\Debug\net6.0\IronNinja.AssemblyInfo.cs
+C:\Users\Dalton\Desktop\Bootcamp SONDA - Coding Dojo\Semana 6\Dia 4\IronNinja\obj\Debug\net6.0\IronNinja.csproj.CoreCompileInputs.cache
+C:\Users\Dalton\Desktop\Bootcamp SONDA - Coding Dojo\Semana 6\Dia 4\IronNinja\obj\Debug\net6.0\IronNinja.dll
+C:\Users\Dalton\Desktop\Bootcamp SONDA - Coding Dojo\Semana 6\Dia 4\IronNinja\obj\Debug\net6.0\refint\IronNinja.dll
+C:\Users\Dalton\Desktop\Bootcamp SONDA - Coding Dojo\Semana 6\Dia 4\IronNinja\obj\Debug\net6.0\IronNinja.pdb
+C:\Users\Dalton\Desktop\Bootcamp SONDA - Coding Dojo\Semana 6\Dia 4\IronNinja\obj\Debug\net6.0\IronNinja.genruntimeconfig.cache
+C:\Users\Dalton\Desktop\Bootcamp SONDA - Coding Dojo\Semana 6\Dia 4\IronNinja\obj\Debug\net6.0\ref\IronNinja.dll
